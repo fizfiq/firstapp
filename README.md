@@ -18,4 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 test
 
 test from another side
-bello
